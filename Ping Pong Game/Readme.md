@@ -1,12 +1,11 @@
 # Ping Pong game
 
-It is a Contact list which stores and displays the list of contacts to and from the database.
+This is a simple ping-pong game.
+It can be added to the 404 page just like the Google Dinosaur game.
 
-This project is made using node.js, Express, MongoDB and EJS.
+This project is made using HTML, CSS and Javascript.
 
 ## How to run the project?
 
 1. Clone this repository in your local system.
-2. Open the command prompt from your project directory and run the command `npm start`.
-3. Go to your browser and type `localhost:8000` in the address bar.
-4. That's it.
+2. Open the index.html file using Live-server.
